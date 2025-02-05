@@ -1,0 +1,4 @@
+﻿  assembler.cpp
+E:\DaltonPC\Desktop\All things\Coding\452 Compiler\CompilerAssign7\TheoreticalAssign8\AssemblyCode\assembler.cpp(169,2): warning C4102: 'endif3': unreferenced label
+E:\DaltonPC\Desktop\All things\Coding\452 Compiler\CompilerAssign7\TheoreticalAssign8\AssemblyCode\assembler.cpp(192,1): warning C4731: 'main': frame pointer register 'ebp' modified by inline assembly code
+  AssemblyCode.vcxproj -> E:\DaltonPC\Desktop\All things\Coding\452 Compiler\CompilerAssign7\TheoreticalAssign8\Debug\AssemblyCode.exe

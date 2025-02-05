@@ -1,0 +1,13 @@
+﻿  Lexor.cpp
+E:\DaltonPC\Desktop\Pascal Compiler\Parser\Lexor_Class\Lexor.cpp(95,23): warning C4018: '<': signed/unsigned mismatch
+E:\DaltonPC\Desktop\Pascal Compiler\Parser\Lexor_Class\Lexor.cpp(121,22): warning C4018: '<': signed/unsigned mismatch
+  Parser.cpp
+E:\DaltonPC\Desktop\Pascal Compiler\Parser\Parser_Class\Parser.cpp(1178,20): warning C4018: '<': signed/unsigned mismatch
+E:\DaltonPC\Desktop\Pascal Compiler\Parser\Parser_Class\Parser.cpp(1205,20): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  SymbolTable.cpp
+E:\DaltonPC\Desktop\Pascal Compiler\Parser\SymbolTable_Class\SymbolTable.cpp(170,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+E:\DaltonPC\Desktop\Pascal Compiler\Parser\Parser_Class\Parser.cpp(274,1): warning C4715: 'TParser::S': not all control paths return a value
+E:\DaltonPC\Desktop\Pascal Compiler\Parser\Parser_Class\Parser.cpp(989,1): warning C4715: 'TParser::DataType': not all control paths return a value
+  Parser.vcxproj -> E:\DaltonPC\Desktop\Pascal Compiler\Debug\Parser.exe
