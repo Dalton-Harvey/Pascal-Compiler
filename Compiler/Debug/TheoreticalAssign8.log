@@ -1,0 +1,6 @@
+﻿  Parser.cpp
+E:\DaltonPC\Desktop\All things\Coding\452 Compiler\CompilerAssign7\TheoreticalAssign8\TheoreticalAssign8\Parser_Class\Parser.cpp(1178,20): warning C4018: '<': signed/unsigned mismatch
+E:\DaltonPC\Desktop\All things\Coding\452 Compiler\CompilerAssign7\TheoreticalAssign8\TheoreticalAssign8\Parser_Class\Parser.cpp(1205,20): warning C4018: '<': signed/unsigned mismatch
+E:\DaltonPC\Desktop\All things\Coding\452 Compiler\CompilerAssign7\TheoreticalAssign8\TheoreticalAssign8\Parser_Class\Parser.cpp(274,1): warning C4715: 'TParser::S': not all control paths return a value
+E:\DaltonPC\Desktop\All things\Coding\452 Compiler\CompilerAssign7\TheoreticalAssign8\TheoreticalAssign8\Parser_Class\Parser.cpp(989,1): warning C4715: 'TParser::DataType': not all control paths return a value
+  TheoreticalAssign8.vcxproj -> E:\DaltonPC\Desktop\All things\Coding\452 Compiler\CompilerAssign7\TheoreticalAssign8\Debug\Parser.exe

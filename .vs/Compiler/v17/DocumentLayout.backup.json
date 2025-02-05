@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\DaltonPC\\Desktop\\Pascal Compiler\\",
+  "WorkspaceRootPath": "E:\\DaltonPC\\Desktop\\All things\\Coding\\Personal Projects\\Pascal Compiler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB487392-3C58-4686-9D64-D2FA52207285}|AssemblyCode\\AssemblyCode.vcxproj|E:\\DaltonPC\\Desktop\\Pascal Compiler\\AssemblyCode\\assembler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EB487392-3C58-4686-9D64-D2FA52207285}|AssemblyCode\\AssemblyCode.vcxproj|E:\\DaltonPC\\Desktop\\All things\\Coding\\Personal Projects\\Pascal Compiler\\AssemblyCode\\assembler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EB487392-3C58-4686-9D64-D2FA52207285}|AssemblyCode\\AssemblyCode.vcxproj|solutionrelative:AssemblyCode\\assembler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59A4FB9-24E7-4791-99F4-77D2C99CD6B6}|Parser\\Parser.vcxproj|E:\\DaltonPC\\Desktop\\Pascal Compiler\\Parser\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A59A4FB9-24E7-4791-99F4-77D2C99CD6B6}|Parser\\Parser.vcxproj|solutionrelative:Parser\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A59A4FB9-24E7-4791-99F4-77D2C99CD6B6}|Compiler\\Compiler.vcxproj|E:\\DaltonPC\\Desktop\\All things\\Coding\\Personal Projects\\Pascal Compiler\\Compiler\\code.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A59A4FB9-24E7-4791-99F4-77D2C99CD6B6}|Compiler\\Compiler.vcxproj|solutionrelative:Compiler\\code.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59A4FB9-24E7-4791-99F4-77D2C99CD6B6}|Parser\\Parser.vcxproj|E:\\DaltonPC\\Desktop\\Pascal Compiler\\Parser\\code.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A59A4FB9-24E7-4791-99F4-77D2C99CD6B6}|Parser\\Parser.vcxproj|solutionrelative:Parser\\code.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DaltonPC\\Desktop\\Pascal Compiler\\TheoreticalAssign8\\TheoreticalAssign8\\code.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheoreticalAssign8\\TheoreticalAssign8\\code.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A59A4FB9-24E7-4791-99F4-77D2C99CD6B6}|Compiler\\Compiler.vcxproj|E:\\DaltonPC\\Desktop\\All things\\Coding\\Personal Projects\\Pascal Compiler\\Compiler\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A59A4FB9-24E7-4791-99F4-77D2C99CD6B6}|Compiler\\Compiler.vcxproj|solutionrelative:Compiler\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "code.txt",
-              "DocumentMoniker": "E:\\DaltonPC\\Desktop\\Pascal Compiler\\TheoreticalAssign8\\TheoreticalAssign8\\code.txt",
-              "RelativeDocumentMoniker": "TheoreticalAssign8\\TheoreticalAssign8\\code.txt",
-              "ToolTip": "E:\\DaltonPC\\Desktop\\Pascal Compiler\\TheoreticalAssign8\\TheoreticalAssign8\\code.txt",
-              "RelativeToolTip": "TheoreticalAssign8\\TheoreticalAssign8\\code.txt",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-03-17T03:47:58.507Z",
-              "IsPinned": true
+              "DocumentIndex": 0,
+              "Title": "assembler.cpp",
+              "DocumentMoniker": "E:\\DaltonPC\\Desktop\\All things\\Coding\\Personal Projects\\Pascal Compiler\\AssemblyCode\\assembler.cpp",
+              "RelativeDocumentMoniker": "AssemblyCode\\assembler.cpp",
+              "ToolTip": "E:\\DaltonPC\\Desktop\\All things\\Coding\\Personal Projects\\Pascal Compiler\\AssemblyCode\\assembler.cpp",
+              "RelativeToolTip": "AssemblyCode\\assembler.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-05T19:53:31.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "E:\\DaltonPC\\Desktop\\Pascal Compiler\\Parser\\Source.cpp",
-              "RelativeDocumentMoniker": "Parser\\Source.cpp",
-              "ToolTip": "E:\\DaltonPC\\Desktop\\Pascal Compiler\\Parser\\Source.cpp",
-              "RelativeToolTip": "Parser\\Source.cpp",
+              "Title": "code.txt",
+              "DocumentMoniker": "E:\\DaltonPC\\Desktop\\All things\\Coding\\Personal Projects\\Pascal Compiler\\Compiler\\code.txt",
+              "RelativeDocumentMoniker": "Compiler\\code.txt",
+              "ToolTip": "E:\\DaltonPC\\Desktop\\All things\\Coding\\Personal Projects\\Pascal Compiler\\Compiler\\code.txt",
+              "RelativeToolTip": "Compiler\\code.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-05T19:08:17.193Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-05T19:53:26.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "code.txt",
-              "DocumentMoniker": "E:\\DaltonPC\\Desktop\\Pascal Compiler\\Parser\\code.txt",
-              "RelativeDocumentMoniker": "Parser\\code.txt",
-              "ToolTip": "E:\\DaltonPC\\Desktop\\Pascal Compiler\\Parser\\code.txt",
-              "RelativeToolTip": "Parser\\code.txt",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-02-05T19:08:26.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "assembler.cpp",
-              "DocumentMoniker": "E:\\DaltonPC\\Desktop\\Pascal Compiler\\AssemblyCode\\assembler.cpp",
-              "RelativeDocumentMoniker": "AssemblyCode\\assembler.cpp",
-              "ToolTip": "E:\\DaltonPC\\Desktop\\Pascal Compiler\\AssemblyCode\\assembler.cpp",
-              "RelativeToolTip": "AssemblyCode\\assembler.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Title": "Source.cpp",
+              "DocumentMoniker": "E:\\DaltonPC\\Desktop\\All things\\Coding\\Personal Projects\\Pascal Compiler\\Compiler\\Source.cpp",
+              "RelativeDocumentMoniker": "Compiler\\Source.cpp",
+              "ToolTip": "E:\\DaltonPC\\Desktop\\All things\\Coding\\Personal Projects\\Pascal Compiler\\Compiler\\Source.cpp",
+              "RelativeToolTip": "Compiler\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-29T00:18:12.47Z",
+              "WhenOpened": "2025-02-05T19:53:19.351Z",
               "EditorCaption": ""
             }
           ]
